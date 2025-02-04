@@ -1,5 +1,9 @@
 # Dashboard-de-Vendas-
 
+Iniciando nesse mundo dos Dados.
+
+Criação do meu primeiro Dashboard de Vendas.
+
 Neste projeto, aprendi a:
 
 ✅ Visualizar o faturamento por ano, mês e continente;
